@@ -1,3 +1,6 @@
+---
+---
+
 # Bias in GLAM: From Data Creation to Algorithmic Access
 
 Bias in Galleries, Libraries, Archives, and Museums (GLAM) operates across the full data lifecycle -- from collection decisions and cataloguing practices to algorithmic systems increasingly deployed for discovery and access. While research on bias in digital libraries has grown substantially, it has focused predominantly on textual data and metadata, leaving the multimodal nature of GLAM collections -- encompassing image, audio, and audiovisual archives -- without systematic attention. This workshop brings together researchers and practitioners from AI and machine learning, digital library science, and humanities to address data and algorithmic bias in multimodal GLAM collections, working toward a shared research agenda.
